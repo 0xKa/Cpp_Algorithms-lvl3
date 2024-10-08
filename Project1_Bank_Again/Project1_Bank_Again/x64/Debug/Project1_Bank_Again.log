@@ -1,0 +1,3 @@
+﻿  Project1_Bank_Again.cpp
+F:\ProgrammingAdvices\Course 7 - Algorithms-lvl3\Project1_Bank_Again\Project1_Bank_Again\Project1_Bank_Again.cpp(57,27): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  Project1_Bank_Again.vcxproj -> F:\ProgrammingAdvices\Course 7 - Algorithms-lvl3\Project1_Bank_Again\x64\Debug\Project1_Bank_Again.exe
